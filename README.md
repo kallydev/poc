@@ -1,0 +1,4 @@
+# Template
+
+GitHub repository template.
+
