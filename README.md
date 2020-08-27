@@ -1,4 +1,10 @@
-# Template
+# PoC
 
-GitHub repository template.
+Proof of Concept.
+
+## License
+
+Copyright (c) KallyDev. All rights reserved.
+
+Licensed under the [MIT](LICENSE).
 
